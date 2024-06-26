@@ -1,0 +1,7 @@
+Added mods:
+  - Modpack Update Checker
+  - Cobblemon Pokedex (Cobbledex)
+
+Added resourcepacks
+
+Updated mods
