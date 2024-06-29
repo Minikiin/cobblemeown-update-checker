@@ -1,7 +1,9 @@
-Added mods:
-  - Modpack Update Checker
-  - Cobblemon Pokedex (Cobbledex)
+I recommend viewing the actual changelog on Modrinth
 
-Added resourcepacks
-
-Updated mods
+Notable changes:
+- Replaced SimpleTMs with Where Are My TMs
+- Added a simple Pokedex (shift right click on a Pokemon)
+- Gym Leaders/badges progression has slightly changed
+- Individual trainer skins (finally, those clones were getting old.. credit to matcher_ from Discord)
+- Cleaned up shaderpacks selection
+- Fixed hover text not showing on Multiplayer screen (thanks, EpicOOF)
