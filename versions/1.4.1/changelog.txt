@@ -1,0 +1,6 @@
+I recommend viewing the actual changelog on Modrinth
+
+Notable changes:
+- Fixed not being able to use TMs on a Pokemon
+- Removed Eon Duo from being included in datapacks as it causes a crash
+- Should no longer have to manually add datapacks into a new world every time
