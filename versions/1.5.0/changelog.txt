@@ -1,0 +1,5 @@
+Notable changes:
+- Quality of Life PC changes (Cobblemon UI Tweaks mod)
+- Items dropped animation for fun
+- Added more pokemon w/ OdysseyMons and WaviMons
+(make sure to enable them in resourcepacks to work clientside, also remove the old cobblecats.zip pack from your resourcepacks, and enable the new CobbleCats 1.5 one)
